@@ -1,0 +1,8 @@
+go.spiff.io/marty
+=================
+
+marty is, currently, just a parent repo to hold generated protobuf from Marathon
+and Mesos. It is licensed under the same license as Marathon and Mesos (and
+generated from files licensed under the same), the Apache License, version 2.0.
+
+See the COPYING file for the complete Apache License, version 2.0
